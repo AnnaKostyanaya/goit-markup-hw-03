@@ -72,7 +72,8 @@ text-decoration: none;
 /*Site nav*/
 .container {
     width: 1200px;
-    padding: 15px 0;
+    padding-left: 15px;
+    padding-right: 15px;
     margin-left: auto;
     margin-right: auto;
 }
