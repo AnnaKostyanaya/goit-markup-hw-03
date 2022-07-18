@@ -359,8 +359,9 @@ address {
 .list > .address {
     margin-bottom: 9px;
 }
-.list.address>.address:not(:last-child) {
-    margin-bottom: 9px;
+
+.list .address:last-child {
+    margin-bottom: 0px;
 }
 
 /* Button */
